@@ -1,8 +1,8 @@
 {
-  "name": "rpio",
-  "version": "2.2.0",
+  "name": "@nanomatic/rpio",
+  "version": "2.2.1",
   "description": "High performance GPIO/i2c/PWM/SPI module for Raspberry Pi",
-  "homepage": "https://www.npmjs.com/package/rpio",
+  "homepage": "https://www.npmjs.com/package/@nanomatic/rpio",
   "main": "./lib/rpio.js",
   "scripts": {
     "install": "node-gyp rebuild",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jperkin/node-rpio.git"
+    "url": "https://github.com/NANOmatic/node-rpio.git"
   },
   "keywords": [
     "bcm2835",
@@ -39,7 +39,7 @@
     "rpi",
     "spi"
   ],
-  "author": "Jonathan Perkin <jonathan@perkin.org.uk> (http://www.perkin.org.uk/)",
+  "author": "NANOmatic <biuro@nanomatic.pl> (http://nanomatic.pl)",
   "license": "(ISC AND GPL-2.0)",
   "gypfile": true
 }
