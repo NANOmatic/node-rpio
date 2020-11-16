@@ -1,6 +1,6 @@
 {
   "name": "@nanomatic/rpio",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "High performance GPIO/i2c/PWM/SPI module for Raspberry Pi",
   "homepage": "https://www.npmjs.com/package/@nanomatic/rpio",
   "main": "./lib/rpio.js",
